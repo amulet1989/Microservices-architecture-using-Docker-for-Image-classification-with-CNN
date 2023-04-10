@@ -1,0 +1,2 @@
+# Microservices-architecture-using-Docker-for-Image-classification-with-CNN
+This project develops a solution that can automatically classify images into over 1000 different categories using a Convolutional Neural Network (CNN) implemented in Tensorflow. Our solution consists of a Web UI and a Python Flask API that serves the CNN. The Web UI allows users to upload an image and receive the predicted class for that image.
