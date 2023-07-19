@@ -56,7 +56,7 @@ To develop this solution you will need to have a proper working environment setu
 - VS Code or any other IDE of your preference
 - Optional: Linux subsystem for Windows (WSL2)
 
-Please make sure to carefully read the `ASSIGNMENT.md` file which contains detailed instructions about the code you have to complete to make the project run correctly.
+Please make sure to carefully read the `ASSIGNMENT.md` file which contains detailed instructions about the code we had completed.
 
 The technologies involved are:
 - Python is the main programming language
