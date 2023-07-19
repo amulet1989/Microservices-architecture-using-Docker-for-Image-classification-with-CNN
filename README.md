@@ -1,7 +1,6 @@
-# Sprint project 03 at Anyone AI
+# Microservice architecture using Docker for image classification.
 
-> Flask ML API
-This project realized for Anyone AI, shows how a microservice architecture work. We have coded and deployed an API to serve a machine-learning models. For this particular case, it was the Convolutional Neural network for images, ResNet50. We build three services:
+This project realized for Anyone AI, shows how a microservice architecture work. We have coded and deployed an API flask to serve a machine-learning model. For this particular case, it was the Convolutional Neural network for images, ResNet50. We build three services:
 
 ```
 ├── api -> Used to implement the communication interface between the users and our service
@@ -43,7 +42,7 @@ Full project structure:
 
 Imagine that you work for a company that has a large collection of images and needs to automatically classify them into different categories. This task can be time-consuming and error-prone when done manually by human workers.
 
-Your task is to develop a solution that can automatically classify images into over 1000 different categories using a Convolutional Neural Network (CNN) implemented in Tensorflow. Your solution will consist of a Web UI and a Python Flask API that serves the CNN.
+Your task is to develop a solution that can automatically classify images into over 1000 different categories using a Convolutional Neural Network (CNN) implemented in TensorFlow. Your solution will consist of a Web UI and a Python Flask API that serves the CNN.
 
 The Web UI should allow users to upload an image and receive the predicted class for that image.
 
